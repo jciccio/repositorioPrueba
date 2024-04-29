@@ -1,1 +1,2 @@
-Este es mi archivo de readme de prueba
+Este es mi archivo de ReadMe de prueba
+Esta es otra línea.
